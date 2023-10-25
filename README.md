@@ -1,5 +1,5 @@
 # Netflix-Data-Analysis
 
-![Inetflix](./datasets/download.png)
+![Inetflix](./datasets/netfliximg.png)
 
-datasets/download.png
+
