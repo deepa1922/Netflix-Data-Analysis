@@ -32,11 +32,12 @@ The dataset contains details about Netflix movies and TV shows, including 'title
 ## Data Analysis
 
 some of insights or key findings for the questions mentioned above. Include relevant graphs and visualizations.
-**When is the best time to release content on Netflix?**
+- **When is the best time to release content on Netflix?**
 ### Ideal Release Months
 ![Inetflix](./datasets/month.png)
 
 **Which countries are the major contributors to Netflix's content?**
+### Content Producers
 ![Inetflix](./datasets/country_wise.jpg)
 
 ## Code Structure
@@ -64,18 +65,4 @@ and  'R' fans.
 - **Recommendation**: To maximize engagement, prioritize International TV Shows, Drama movies, and mature content. Strategically release in July, December, or September, and monitor audience trends for consistent success.
 
 
-
-
-
-
-
-
-
-
-
----
-
-*For an automatically generated Table of Contents, you can use GFM. To enable it, make sure to add the following line to your README:*
-
-
-
+  **Thank You**
